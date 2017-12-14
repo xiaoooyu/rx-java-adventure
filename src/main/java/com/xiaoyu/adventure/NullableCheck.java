@@ -1,3 +1,5 @@
+package com.xiaoyu.adventure;
+
 import io.reactivex.Observable;
 import io.reactivex.plugins.RxJavaPlugins;
 
